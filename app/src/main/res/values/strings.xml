@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Aegis</string>
+    <string name="title_home">Home</string>
+    <string name="title_map">Map</string>
+    <string name="title_network">Network</string>
+    <string name="title_history">History</string>
+    <string name="title_settings">Settings</string>
+</resources>
